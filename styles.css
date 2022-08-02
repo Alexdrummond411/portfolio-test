@@ -126,8 +126,8 @@ figcaption{
   margin: 0px;
 }
 .project-tile {
-  width: 90%;
-  height: 80%;
+  width: 90vw;
+  height: 80vh;
   --gap: 30px;
   --num-cols: 3;
   --row-height: 250px;
